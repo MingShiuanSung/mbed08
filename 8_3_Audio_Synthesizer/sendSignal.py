@@ -18,6 +18,7 @@ signalTable = (np.sin(t) + 1.0) / 2.0 * ((1<<16) - 1)
 
 
 
+
 # output formatter
 
 formatter = lambda x: "%.3f" % x
